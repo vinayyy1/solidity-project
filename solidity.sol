@@ -24,5 +24,4 @@ contract UniqueToken {
         tokenBalances[holder] -= amount;
     }
 }
-ChatGPT
-ChatGPT
+
